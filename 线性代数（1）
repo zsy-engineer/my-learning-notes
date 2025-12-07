@@ -113,6 +113,9 @@
         <mxCell id="10AVPlkaLVMsyUPF-89J-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="在这里我先将一次运算看成是两个部分，一次是对i和j这两个基向量本身的变化，还有一次是它们乘上标量，进行缩放的变化。" vertex="1">
           <mxGeometry height="80" width="150" x="500" y="450" as="geometry" />
         </mxCell>
+        <mxCell id="10AVPlkaLVMsyUPF-89J-26" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;变换&lt;/h1&gt;&lt;div&gt;剪切矩阵*（旋转矩阵）*原矩阵=复合矩阵*原矩阵&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;疑似将原矩阵先进性旋转在进行角度和缩放上的变化&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="108.5" y="560" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
