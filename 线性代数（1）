@@ -113,8 +113,11 @@
         <mxCell id="10AVPlkaLVMsyUPF-89J-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="在这里我先将一次运算看成是两个部分，一次是对i和j这两个基向量本身的变化，还有一次是它们乘上标量，进行缩放的变化。" vertex="1">
           <mxGeometry height="80" width="150" x="500" y="450" as="geometry" />
         </mxCell>
-        <mxCell id="10AVPlkaLVMsyUPF-89J-26" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;变换&lt;/h1&gt;&lt;div&gt;剪切矩阵*（旋转矩阵）*原矩阵=复合矩阵*原矩阵&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;疑似将原矩阵先进性旋转在进行角度和缩放上的变化&lt;/div&gt;" vertex="1">
+        <mxCell id="10AVPlkaLVMsyUPF-89J-26" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;变换&lt;/h1&gt;&lt;div&gt;剪切矩阵*（旋转矩阵）*原矩阵=复合矩阵*原矩阵&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;疑似将原矩阵先进性旋转在进行一定（我还并未了解通透，但我快期末了）上的变化&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="180" x="108.5" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="10AVPlkaLVMsyUPF-89J-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;矩阵乘法为什么不能交换？&lt;/div&gt;M1*M2！=M2*M1&lt;div&gt;因为先旋转再剪切和先剪切再旋转的效果不同&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;但它可以进行乘法结合律&lt;/div&gt;&lt;div&gt;A（BC）=（AB）C&lt;/div&gt;&lt;div&gt;因为可以看作先应用C变换，再是B变换和A变换，这和先是应用A变换，再是B变换和C变换并没有什么不同，但这和我上面写的就有了冲突，其实并没有，者和角度有关，事实上每一次完整的变化（乘以复合矩阵）都需要经历旋转和剪切，在两个矩阵相乘时可看作M2矩阵计算先对单位向量（后补的，因为矩阵乘以单位向量都等于其本身）进行旋转的操作，再是M1对之后变化的矩阵进行剪切，故不能前后颠倒。&lt;/div&gt;&lt;div&gt;但几个矩阵相乘，直接看成是复合矩阵对其变化，只要先旋转后剪切的顺序正确就能进行先后的调换。在此只是个人理解。&lt;/div&gt;" vertex="1">
+          <mxGeometry height="380" width="181.5" x="108.5" y="700" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
