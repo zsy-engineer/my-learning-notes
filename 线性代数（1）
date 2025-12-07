@@ -1,0 +1,119 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="29.2.4">
+  <diagram name="第 1 页" id="7mJJ_AlRgYv8hqYbZUFU">
+    <mxGraphModel dx="1213" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="H8uT8b7li1nfCP9xAoXr-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;线性代数（1）&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="50" width="150" x="317" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H8uT8b7li1nfCP9xAoXr-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="227" y="220" />
+            </Array>
+            <mxPoint x="21" y="220" as="sourcePoint" />
+            <mxPoint x="411" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8uT8b7li1nfCP9xAoXr-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="197" y="300" />
+            </Array>
+            <mxPoint x="197" y="400" as="sourcePoint" />
+            <mxPoint x="197" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8uT8b7li1nfCP9xAoXr-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="H8uT8b7li1nfCP9xAoXr-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="197" y="220" as="sourcePoint" />
+            <mxPoint x="237" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8uT8b7li1nfCP9xAoXr-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="|1|&lt;div&gt;|2|&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="217" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="H8uT8b7li1nfCP9xAoXr-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="(1,2)" vertex="1">
+          <mxGeometry height="20" width="60" x="257" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="10AVPlkaLVMsyUPF-89J-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="197" y="220" as="sourcePoint" />
+            <mxPoint x="197" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10AVPlkaLVMsyUPF-89J-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="197" y="220" as="sourcePoint" />
+            <mxPoint x="237" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10AVPlkaLVMsyUPF-89J-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="i" vertex="1">
+          <mxGeometry height="30" width="60" x="157" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="10AVPlkaLVMsyUPF-89J-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="j" vertex="1">
+          <mxGeometry height="30" width="60" x="197" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="10AVPlkaLVMsyUPF-89J-9" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="空间中的一组基：张成该空间的一个线性无关向量的集合。&lt;div&gt;而图中的i,j正是基向量&lt;/div&gt;&lt;div&gt;再次也补充张成的空间是指指定向量（不一定是基向量）所有它们的线性组合&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="450" x="357" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="10AVPlkaLVMsyUPF-89J-10" edge="1" parent="1" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" target="10AVPlkaLVMsyUPF-89J-9" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="237" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10AVPlkaLVMsyUPF-89J-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="什么是线性变化？&lt;div&gt;1.直线在变化后仍保持为直线，不能有所弯曲&lt;/div&gt;&lt;div&gt;2.原点必须保持固定&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="510" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="10AVPlkaLVMsyUPF-89J-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="线性变换可看作是保持网格线平行且等距分布的变换" vertex="1">
+          <mxGeometry height="30" width="210" x="520" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="10AVPlkaLVMsyUPF-89J-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="740" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10AVPlkaLVMsyUPF-89J-15" connectable="0" parent="10AVPlkaLVMsyUPF-89J-14" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Label" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10AVPlkaLVMsyUPF-89J-16" connectable="0" parent="10AVPlkaLVMsyUPF-89J-14" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" value="|1 0|&lt;div&gt;|0 1|&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-1" as="geometry" />
+        </mxCell>
+        <mxCell id="10AVPlkaLVMsyUPF-89J-17" connectable="0" parent="10AVPlkaLVMsyUPF-89J-14" style="edgeLabel;resizable=0;html=1;;align=right;verticalAlign=bottom;" value="目标" vertex="1">
+          <mxGeometry relative="1" x="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10AVPlkaLVMsyUPF-89J-23" connectable="0" parent="10AVPlkaLVMsyUPF-89J-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="经过一定的线性变化" vertex="1">
+          <mxGeometry relative="1" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10AVPlkaLVMsyUPF-89J-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="E-单位矩阵" vertex="1">
+          <mxGeometry height="20" width="70" x="317" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="10AVPlkaLVMsyUPF-89J-20" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="440" as="sourcePoint" />
+            <mxPoint x="277" y="465.3617073170732" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10AVPlkaLVMsyUPF-89J-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;span style=&quot;&quot;&gt;|1 0|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; |1|&amp;nbsp; &amp;nbsp; |0|&lt;/span&gt;&lt;div style=&quot;&quot;&gt;|0 1|可拆解为|0|和|1|，分别是i和j&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="157" x="120" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="10AVPlkaLVMsyUPF-89J-24" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="10AVPlkaLVMsyUPF-89J-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="340" />
+            </Array>
+            <mxPoint x="560" y="430" as="sourcePoint" />
+            <mxPoint x="590" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10AVPlkaLVMsyUPF-89J-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="在这里我先将一次运算看成是两个部分，一次是对i和j这两个基向量本身的变化，还有一次是它们乘上标量，进行缩放的变化。" vertex="1">
+          <mxGeometry height="80" width="150" x="500" y="450" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
