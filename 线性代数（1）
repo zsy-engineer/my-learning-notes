@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="29.2.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="29.2.6">
   <diagram name="第 1 页" id="7mJJ_AlRgYv8hqYbZUFU">
-    <mxGraphModel dx="1213" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1213" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,50 +10,50 @@
         <mxCell id="H8uT8b7li1nfCP9xAoXr-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="227" y="220" />
+              <mxPoint x="230" y="200" />
             </Array>
-            <mxPoint x="21" y="220" as="sourcePoint" />
-            <mxPoint x="411" y="220" as="targetPoint" />
+            <mxPoint x="24" y="200" as="sourcePoint" />
+            <mxPoint x="414" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H8uT8b7li1nfCP9xAoXr-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="197" y="300" />
+              <mxPoint x="198" y="290" />
             </Array>
-            <mxPoint x="197" y="400" as="sourcePoint" />
-            <mxPoint x="197" y="60" as="targetPoint" />
+            <mxPoint x="198" y="390" as="sourcePoint" />
+            <mxPoint x="198" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H8uT8b7li1nfCP9xAoXr-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="H8uT8b7li1nfCP9xAoXr-6" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="197" y="220" as="sourcePoint" />
-            <mxPoint x="237" y="140" as="targetPoint" />
+            <mxPoint x="197" y="199" as="sourcePoint" />
+            <mxPoint x="237" y="119" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H8uT8b7li1nfCP9xAoXr-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="|1|&lt;div&gt;|2|&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="217" y="110" as="geometry" />
+          <mxGeometry height="30" width="60" x="217" y="89" as="geometry" />
         </mxCell>
         <mxCell id="H8uT8b7li1nfCP9xAoXr-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="(1,2)" vertex="1">
-          <mxGeometry height="20" width="60" x="257" y="130" as="geometry" />
+          <mxGeometry height="20" width="60" x="257" y="109" as="geometry" />
         </mxCell>
         <mxCell id="10AVPlkaLVMsyUPF-89J-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="197" y="220" as="sourcePoint" />
-            <mxPoint x="197" y="180" as="targetPoint" />
+            <mxPoint x="197" y="199" as="sourcePoint" />
+            <mxPoint x="197" y="159" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="10AVPlkaLVMsyUPF-89J-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="197" y="220" as="sourcePoint" />
-            <mxPoint x="237" y="220" as="targetPoint" />
+            <mxPoint x="197" y="199" as="sourcePoint" />
+            <mxPoint x="237" y="199" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="10AVPlkaLVMsyUPF-89J-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="i" vertex="1">
           <mxGeometry height="30" width="60" x="157" y="170" as="geometry" />
         </mxCell>
         <mxCell id="10AVPlkaLVMsyUPF-89J-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="j" vertex="1">
-          <mxGeometry height="30" width="60" x="197" y="190" as="geometry" />
+          <mxGeometry height="30" width="60" x="197" y="169" as="geometry" />
         </mxCell>
         <mxCell id="10AVPlkaLVMsyUPF-89J-9" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="空间中的一组基：张成该空间的一个线性无关向量的集合。&lt;div&gt;而图中的i,j正是基向量&lt;/div&gt;&lt;div&gt;再次也补充张成的空间是指指定向量（不一定是基向量）所有它们的线性组合&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="450" x="357" y="110" as="geometry" />
@@ -118,6 +118,29 @@
         </mxCell>
         <mxCell id="10AVPlkaLVMsyUPF-89J-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;矩阵乘法为什么不能交换？&lt;/div&gt;M1*M2！=M2*M1&lt;div&gt;因为先旋转再剪切和先剪切再旋转的效果不同&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;但它可以进行乘法结合律&lt;/div&gt;&lt;div&gt;A（BC）=（AB）C&lt;/div&gt;&lt;div&gt;因为可以看作先应用C变换，再是B变换和A变换，这和先是应用A变换，再是B变换和C变换并没有什么不同，但这和我上面写的就有了冲突，其实并没有，者和角度有关，事实上每一次完整的变化（乘以复合矩阵）都需要经历旋转和剪切，在两个矩阵相乘时可看作M2矩阵计算先对单位向量（后补的，因为矩阵乘以单位向量都等于其本身）进行旋转的操作，再是M1对之后变化的矩阵进行剪切，故不能前后颠倒。&lt;/div&gt;&lt;div&gt;但几个矩阵相乘，直接看成是复合矩阵对其变化，只要先旋转后剪切的顺序正确就能进行先后的调换。在此只是个人理解。&lt;/div&gt;" vertex="1">
           <mxGeometry height="380" width="181.5" x="108.5" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="mtFpwafqb5iq2MhFx-gR-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;行列式&lt;/h1&gt;&lt;div&gt;行列式在二维里是面积，在三维里是体积，以上我也不清楚了，我个人认为是指某维度的范围&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="535" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="mtFpwafqb5iq2MhFx-gR-2" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;秩（列向量的维数）&lt;/h1&gt;&lt;div&gt;代表着变化后空间的维数（个人理解为压缩）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="530" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="mtFpwafqb5iq2MhFx-gR-3" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;A的列空间&lt;/h1&gt;&lt;div&gt;所有可能的输出向量Av构成的集合（就是矩阵的列所张成的空间）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;零向量一定包含在列空间中，因为线性变换要求保持原点位置不变&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="520" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="mtFpwafqb5iq2MhFx-gR-5" edge="1" parent="1" source="mtFpwafqb5iq2MhFx-gR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtFpwafqb5iq2MhFx-gR-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="秩与列数相等——满秩" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="mtFpwafqb5iq2MhFx-gR-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="对于满秩变换，唯一在变换后落在原点的就是零向量自身" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="mtFpwafqb5iq2MhFx-gR-7" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;在变换后落在原点的向量的集合被称为所选矩阵的零空间或核&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="530" y="960" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
