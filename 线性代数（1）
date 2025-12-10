@@ -140,7 +140,10 @@
           <mxGeometry height="60" width="120" x="350" y="800" as="geometry" />
         </mxCell>
         <mxCell id="mtFpwafqb5iq2MhFx-gR-7" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;在变换后落在原点的向量的集合被称为所选矩阵的零空间或核&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="180" x="530" y="960" as="geometry" />
+          <mxGeometry height="120" width="180" x="520" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="u5PuoLiNPIq-fd3WzOr--2" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;点积&lt;/h1&gt;&lt;div&gt;与投影有关，具有对偶性&lt;/div&gt;&lt;div&gt;矩阵向量乘积与点积有关（但没弄明白）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="510" y="1020" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
